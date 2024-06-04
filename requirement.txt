@@ -2,7 +2,7 @@ numpy>=1.20.0
 numba>=0.52.0
 scipy>=1.2.3
 mujoco==2.3.0
-casadi==3.5.5
+casadi==3.6.5
 matplotlib==3.3.3
 opencv-python==4.5.1.48
 pybullet==3.0.8
